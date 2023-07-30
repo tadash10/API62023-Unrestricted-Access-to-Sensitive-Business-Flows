@@ -1,0 +1,12 @@
+# Python virtual environment
+venv/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Local development settings
+.env
+
+# Log files
+api.log
